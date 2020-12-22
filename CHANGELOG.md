@@ -1,6 +1,6 @@
 # Changelog
 
-All notable changes to `wearejust/laravel-amp` will be documented in this file
+All notable changes to `shaneeardley80/laravel-amp` will be documented in this file
 
 ## 1.0.0 - 2017-01-25
 

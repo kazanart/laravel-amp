@@ -7,7 +7,7 @@ This package makes it easy to integrate [AMP](https://www.ampproject.org/) in yo
 You can install the package via composer:
 
 ``` bash
-composer require wearejust/laravel-amp
+composer require shaneeardley80/laravel-amp
 ```
 
 Register the service provider in your app.php
