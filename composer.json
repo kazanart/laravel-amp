@@ -1,24 +1,24 @@
 {
-    "name": "shaneeardley80/laravel-amp",
+    "name": "kazanart/laravel-amp",
     "description": "Package that helps you set up AMP (Accelerated Mobile Pages) using Laravel",
     "keywords": [
-        "shaneeardley80",
+        "kazanart",
         "laravel-amp"
     ],
-    "homepage": "https://github.com/shaneeardley80",
+    "homepage": "https://github.com/kazanart",
     "license": "MIT",
     "authors": [
         {
-            "name": ":Shane Eardley",
-            "email": "shane.eardley.80@gmail.com",
-            "homepage": "https://github.com/shaneeardley80",
+            "name": ":Artem Kazantsev",
+            "email": "mail@artemius.tech",
+            "homepage": "https://github.com/kazanart",
             "role": "Developer"
         }
     ],
     "require": {
         "php": ">=5.6",
-        "illuminate/support": "~5",
-        "illuminate/contracts": "~5"
+        "illuminate/support": "~7",
+        "illuminate/contracts": "~7"
     },
     "require-dev": {
         "phpunit/phpunit": "5.*"
